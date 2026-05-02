@@ -1,6 +1,6 @@
 <!-- 🔥 HEADER -->
 <h1 align="center">Hi 👋, I'm Rupam Ghosh</h1>
-<h3 align="center">🔐 Cyber Security Engineer | 💻 Backend Developer | 🤖 AI Builder</h3>
+<h3 align="center">🔐 Cyber Security Engineer | 💻 Backend Developer | 🤖 AI Website Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+%7C+Penetration+Testing;Backend+Developer+%7C+Flask+%7C+PHP;AI+Projects+%7C+Deepfake+Detection;Building+Secure+and+Scalable+Systems&center=true&width=600&height=45">
