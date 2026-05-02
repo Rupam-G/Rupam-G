@@ -15,15 +15,14 @@
 <!-- 🧠 ABOUT -->
 ## 🧠 About Me
 
-🎓 **B.Tech CSE (2022–2026)**  
-🏫 Bengal College of Engineering and Technology | **CGPA: 8.01**
+🎓 B.Tech in Computer Science & Engineering (2022–2026)  
+🏫 Bengal College of Engineering and Technology | 
 
-- 🔐 Focused on **Cyber Security, Network Analysis & Ethical Hacking**
-- 💻 Backend Developer building **secure web applications**
-- 🤖 AI enthusiast working on **Deepfake Detection & Facial Recognition**
-- 🌐 Built and deployed **real-world production systems**
-- 🧪 Experience with **security tools & real datasets**
-- 📍 Durgapur, West Bengal, India  
+- 🔐 Strong interest in **Cyber Security & Network Analysis**
+- 💻 Backend Developer skilled in **Flask, PHP, REST APIs**
+- 🤖 Built AI-based systems for **Deepfake Detection & Facial Recognition**
+- 🌐 Developed a **live production web application**
+- 🧪 Hands-on experience with real-world **security datasets & threat analysis**
 
 ---
 
@@ -45,24 +44,25 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Facial Recognition Voting System
-- **Python, Flask, JSON**
-- Secure authentication-based voting system  
-- 🎯 Accuracy: **90–95%**  
+- **Tech:** Python, Flask, JSON  
+- Secure voting system using facial authentication  
+- Achieved **90–95% accuracy**  
+- Focus on authentication & data integrity  
 
 ---
 
-### 🔹 Satyaprakash — Deepfake & Misinformation Analyzer
-- **Python, OpenCV, TensorFlow**
-- Real-time AI-based detection system  
-- 🎯 Accuracy: **90–95%**  
+### 🔹 Satyaprakash – Deepfake & Misinformation Analyzer
+- **Tech:** Python, OpenCV, TensorFlow  
+- AI-based real-time detection system  
+- Accuracy: **90–95%**  
 
 ---
 
-### 🔹 PRS — Paleto Repair Shop Management System
-- **PHP, MySQL**
-- Full-stack production web application  
-- 🔐 Role-based authentication  
-- 🌐 **Live:** http://paletorepairs.in  
+### 🔹 PRS – Paleto Repair Shop Management System
+- **Tech:** PHP, MySQL  
+- Full-stack web application with role-based authentication  
+- 🟢 Status: **Live & Fully Operational**  
+- 🌐 http://paletorepairs.in  
 
 ---
 
@@ -124,14 +124,9 @@
 <!-- 📊 STATS -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupam-G&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-G&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-G&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Rupam-G&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rupam-G&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rupam-G&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
