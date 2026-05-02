@@ -76,7 +76,7 @@
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
 </p>
 
 - REST APIs  
@@ -96,7 +96,7 @@
 
 ### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux" />
+<img src="https://skillicons.dev/icons?i=git,linux,nginx,vscode" />
 </p>
 
 - Nmap  
