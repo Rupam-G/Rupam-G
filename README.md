@@ -1,140 +1,160 @@
+<!-- 🔥 HEADER -->
 <h1 align="center">Hi 👋, I'm Rupam Ghosh</h1>
-<h3 align="center">🔐 Cyber Security Enthusiast | 💻 Backend Developer | 🤖 AI/ML Builder</h3>
+<h3 align="center">🔐 Cyber Security Engineer | 💻 Backend Developer | 🤖 AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;Backend+Developer;AI+Project+Builder;Penetration+Testing+%7C+Flask+%7C+PHP&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+%7C+Penetration+Testing;Backend+Developer+%7C+Flask+%7C+PHP;AI+Projects+%7C+Deepfake+Detection;Building+Secure+and+Scalable+Systems&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rupam-G&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
+<!-- 🧠 ABOUT -->
 ## 🧠 About Me
 
-🎓 B.Tech in Computer Science & Engineering (2022–2026)  
+🎓 **B.Tech CSE (2022–2026)**  
 🏫 Bengal College of Engineering and Technology | **CGPA: 8.01**
 
-- 🔐 Strong interest in **Cyber Security & Network Analysis**
-- 💻 Backend Developer skilled in **Flask, PHP, REST APIs**
-- 🤖 Built AI-based systems for **Deepfake Detection & Facial Recognition**
-- 🌐 Developed a **live production web application**
-- 🧪 Hands-on experience with real-world **security datasets & threat analysis**
+- 🔐 Focused on **Cyber Security, Network Analysis & Ethical Hacking**
+- 💻 Backend Developer building **secure web applications**
+- 🤖 AI enthusiast working on **Deepfake Detection & Facial Recognition**
+- 🌐 Built and deployed **real-world production systems**
+- 🧪 Experience with **security tools & real datasets**
 - 📍 Durgapur, West Bengal, India  
 
 ---
 
+<!-- 💼 EXPERIENCE -->
 ## 💼 Experience
 
-### 🔹 Cyber Security Intern – AICT Pvt. Ltd. (Jun 2025 – Aug 2025)
+### 🔹 Cyber Security Intern — AICT Pvt. Ltd. *(Jun 2025 – Aug 2025)*
 
-- Analyzed real-world datasets to identify vulnerabilities & cyber threats  
-- Monitored network traffic using **Intrusion Detection Systems (IDS)**  
-- Performed **Vulnerability Assessment & Penetration Testing**  
-- Used tools like **Nmap, Burp Suite** for security testing  
-- Identified security gaps & suggested mitigation strategies  
-- Contributed to **AI-based security solutions**  
+- 🔍 Analyzed real-world datasets to detect cyber threats  
+- 📡 Monitored traffic using **Intrusion Detection Systems (IDS)**  
+- 🛡 Conducted **Penetration Testing & Vulnerability Assessments**  
+- 🧰 Worked with **Nmap, Burp Suite, Wireshark**  
+- ⚠️ Identified vulnerabilities & recommended fixes  
+- 🤖 Contributed to **AI-driven security solutions**  
 
 ---
 
-## 🚀 Projects
+<!-- 🚀 PROJECTS -->
+## 🚀 Featured Projects
 
 ### 🔹 Facial Recognition Voting System
-- **Tech:** Python, Flask, JSON  
-- Secure voting system using facial authentication  
-- Achieved **90–95% accuracy**  
-- Focus on authentication & data integrity  
+- **Python, Flask, JSON**
+- Secure authentication-based voting system  
+- 🎯 Accuracy: **90–95%**  
 
 ---
 
-### 🔹 Satyaprakash – Deepfake & Misinformation Analyzer
-- **Tech:** Python, OpenCV, TensorFlow  
-- AI-based real-time detection system  
-- Accuracy: **90–95%**  
+### 🔹 Satyaprakash — Deepfake & Misinformation Analyzer
+- **Python, OpenCV, TensorFlow**
+- Real-time AI-based detection system  
+- 🎯 Accuracy: **90–95%**  
 
 ---
 
-### 🔹 PRS – Paleto Repair Shop Management System
-- **Tech:** PHP, MySQL  
-- Full-stack web application with role-based authentication  
-- 🟢 Status: **Live & Fully Operational**  
-- 🌐 http://paletorepairs.in  
+### 🔹 PRS — Paleto Repair Shop Management System
+- **PHP, MySQL**
+- Full-stack production web application  
+- 🔐 Role-based authentication  
+- 🌐 **Live:** http://paletorepairs.in  
 
 ---
 
+<!-- 🛠 TECH STACK -->
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
-
----
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,php" />
+</p>
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,flask" />
+</p>
 
+- REST APIs  
 - Backend Development  
 - Authentication & Authorization  
-- Session Management  
 
 ---
 
-### 🔐 Cyber Security & Networking
+### 🔐 Cyber Security
 - Intrusion Detection Systems (IDS)  
-- Vulnerability Assessment  
 - Penetration Testing  
-- Network Traffic Monitoring  
+- Vulnerability Assessment  
+- Network Monitoring  
 - Cyber Threat Analysis  
-- Computer Networks  
 
 ---
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
-![Apache](https://img.shields.io/badge/Apache-red?style=for-the-badge)
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux" />
+</p>
 
+- Nmap  
+- Burp Suite  
+- Wireshark  
+- Apache Server  
 - Hostinger  
 
 ---
 
-### 🛡 Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-green?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
-
----
-
 ### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ---
 
 ### 🧠 Core CS
 - Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- Database Management Systems (DBMS)  
+- Object-Oriented Programming  
+- DBMS  
 
 ---
 
-## 📊 GitHub Stats
+<!-- 📊 STATS -->
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=Rupam-G&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rupam-G&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rupam-G&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupam-G&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-G&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-G&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
+<!-- 🐍 SNAKE -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rupam-G/Rupam-G/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- 🌐 CONTACT -->
 ## 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/rupam-ghosh-a1b4b926b  
-- 📧 Email: ghoshrupam444@gmail.com  
+<p align="center">
+<a href="https://linkedin.com/in/rupam-ghosh-a1b4b926b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:ghoshrupam444@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+<!-- ⚡ QUOTE -->
+## ⚡ Developer Mindset
 
-> I enjoy building secure systems and analyzing vulnerabilities to make applications safer 🔐
+> "Build. Break. Secure. Repeat." 🔐
